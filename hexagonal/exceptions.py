@@ -1,0 +1,3 @@
+
+class EntityDoesNotExist(BaseException):
+    pass
